@@ -9,20 +9,15 @@ and offers a *simple* and *intuitive* API.
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
+Sysco Resources
+===================================
+
 .. note::
 
    This project is under active development.
 
 Contents
 --------
-
-.. toctree::
-
-  usage
-   api
-
-Sysco Resources
-===================================
 
 .. toctree::
 
